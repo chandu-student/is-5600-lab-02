@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
       userData.splice(userIndex, 1);
       generateUserList(userData, stocksData);
     });
+
     
   });
   function generateUserList(users, stocks) {
