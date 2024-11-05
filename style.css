@@ -22,7 +22,8 @@ h3 {
     color: #212221;
 }
 
-.grid-container {
+.grid-container 
+{
   display: grid;
   grid-template-columns: 0.25fr 1fr;
   grid-template-rows: 1fr;
